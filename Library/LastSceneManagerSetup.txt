@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Spooklit/Mision_1/Assets/Scenes/MISI\xD3N 1.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
